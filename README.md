@@ -5,4 +5,11 @@ Data cleaning: OpenRefine
 Spatial database: GeoPackage
 Spatial analysis: QGIS
 Form: XLSForm in Excel, validated with ODK Validate
-
+#Folder Structure
+/data-raw/        
+   /data-cleaned/   
+   /db/              
+   /qgis/             
+   /xlsform/         
+   /docs/            
+  
