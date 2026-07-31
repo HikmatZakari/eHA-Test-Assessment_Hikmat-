@@ -12,4 +12,5 @@ Form: XLSForm in Excel, validated with ODK Validate
    /qgis/             
    /xlsform/         
    /docs/            
-  
+  #To reproduce: 
+  open the raw file in OpenRefine, then Undo/Redo → Apply → select this /data-cleaned/openrefine_recipe.json file.
